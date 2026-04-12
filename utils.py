@@ -529,5 +529,3 @@ def indices_to_indicator(length: int, indices: list[int]) -> list[int]:
         indicator[index - 1] = 1
 
     return indicator
-# Content: Structure it by uses. Group them
-    # - General
