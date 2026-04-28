@@ -93,7 +93,7 @@ where L_a and L_b come from the two half-size subproblems. The dynamic-programmi
 version caches these intermediate values to avoid redundant computation.
 
 
-## Quick start
+<!-- ## Quick start
 
 ```bash
 git clone https://github.com/abdou-majeed/polar-codes.git
@@ -120,7 +120,7 @@ python tests/utils_test.py
 python tests/channel_combination_test.py
 python tests/encoder_test.py
 ```
-
+-->
 
 ## Example: BEC polarization
 
@@ -154,3 +154,7 @@ and half become near-useless, matching the channel capacity of 0.5.
 
 2. I. Tal and A. Vardy, “How to construct polar codes,” *IEEE Transactions on
    Information Theory*, vol. 59, no. 10, pp. 6562–6582, October 2013.
+
+
+## Acknowledgement
+Most of this readme was written by [Agentica](https://agentica.symbolica.ai)
