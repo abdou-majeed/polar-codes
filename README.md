@@ -3,8 +3,8 @@
 An implementation of Arıkan's polar codes from first principles.
 
 I wrote this simulation about three years ago when doing research on polar codes.
-I am progressively refactoring the code to make it accessible to general readers.
-I will upload the files progressively.
+I am progressively refactoring the code to make it more readable and accessible to general readers.
+I will upload the new version progressively.
 
 Polar codes are the first family of error-correcting codes with an explicit construction
 that provably achieves the symmetric capacity of any binary-input discrete memoryless channel.
