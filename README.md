@@ -1,4 +1,4 @@
-# polar-codes (upload in progress)
+# polar-codes (refactoring in progress: it will take a while!)
 
 An implementation of Arıkan's polar codes from first principles.
 
