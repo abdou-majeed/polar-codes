@@ -157,4 +157,4 @@ and half become near-useless, matching the channel capacity of 0.5.
 
 
 ## Acknowledgement
-Most of this readme was written by [Agentica](https://agentica.symbolica.ai)
+Most of this readme was written by [Agentica](https://agentica.symbolica.ai).
